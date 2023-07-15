@@ -1,2 +1,2 @@
-# Grundlagen_in_Cplsplus
+# Grundlagen_in_C++
 Grundlagen in C++
