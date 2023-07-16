@@ -6,3 +6,7 @@ und anderen digitalen Lernmittel bei.
 
 Inhaltsangabe:
 - Grundlagen in C++
+- Hello World
+- Primitive Datentypen in C++
+- If-Anweisung, For-Schleife, While-Schleife
+- 
